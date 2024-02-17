@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "ca39",
+      "cityName": "O Savinao",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-15T23:37:05.159Z",
+      "notes": "",
+      "position": {
+        "lat": "42.66839088319842",
+        "lng": "-7.734375000000001"
+      }
+    },
+    {
+      "id": "ab14",
+      "cityName": "Cinfaes",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-15T23:37:10.119Z",
+      "notes": "hh",
+      "position": {
+        "lat": "40.98368939992277",
+        "lng": "-7.998046875000001"
+      }
+    },
+    {
+      "id": "1889",
+      "cityName": "San Martin de Valveni",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-17T14:13:08.959Z",
+      "notes": "hello",
+      "position": {
+        "lat": "41.72213058512578",
+        "lng": "-4.526367187500001"
+      }
+    },
+    {
+      "id": "9c50",
+      "cityName": "Santa Cruz de la Zarza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-17T14:14:58.251Z",
+      "notes": "",
+      "position": {
+        "lat": "39.87601941962116",
+        "lng": "-3.1640625000000004"
+      }
+    },
+    {
+      "id": "5551",
+      "cityName": "Dhehiba",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2024-02-17T15:20:59.412Z",
+      "notes": "",
+      "position": {
+        "lat": "31.834352287557852",
+        "lng": "10.195312500000002"
+      }
+    }
+  ]
+}
