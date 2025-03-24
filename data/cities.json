@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "d0ec",
+      "cityName": "Rass Oumlil",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-03-23T23:40:44.078Z",
+      "notes": "wdswd",
+      "position": {
+        "lat": "28.536274512989916",
+        "lng": "-11.0302734375"
+      }
+    },
+    {
+      "id": "b964",
+      "cityName": "Tifariti",
+      "country": "Western Sahara*",
+      "emoji": "🇪🇭",
+      "date": "2025-03-23T23:45:28.550Z",
+      "notes": "",
+      "position": {
+        "lat": "26.43122806450644",
+        "lng": "-10.78857421875"
+      }
+    },
+    {
+      "id": "b34e",
+      "cityName": "El Campo de Penaranda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-23T23:47:54.828Z",
+      "notes": "",
+      "position": {
+        "lat": "41.0130657870063",
+        "lng": "-5.295410156250001"
+      }
+    },
+    {
+      "id": "934d",
+      "cityName": "Agadir",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-03-23T23:48:26.354Z",
+      "notes": "football",
+      "position": {
+        "lat": "30.420256142845158",
+        "lng": "-9.541625976562502"
+      }
+    },
+    {
+      "id": "eec8",
+      "cityName": "Ain Leuh",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-03-24T15:16:38.407Z",
+      "notes": "1",
+      "position": {
+        "lat": "33.22949814144951",
+        "lng": "-5.251464843750001"
+      }
+    }
+  ]
+}
